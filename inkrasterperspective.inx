@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Perspective Fix</name>
+  <id>khema.persp_fix</id>
+  <effect>
+    <effects-menu><submenu name="Raster"></submenu></effects-menu>
+  </effect>
+  <script>
+    <command interpreter="python" reldir="extensions">inkrasterperspective.py</command>
+  </script>
+</inkscape-extension>
