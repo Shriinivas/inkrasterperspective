@@ -1,5 +1,6 @@
 # Inkscape Raster Perspective Correction Extension
 
+<p align="center"><img src="https://github.com/Shriinivas/etc/blob/master/inkrasterperspective/inkpersp.jpg" alt="Draw Options"/></p><br/>
 This Inkscape extension allows you to correct the perspective of raster images using OpenCV. It provides a simple way to fix distorted images directly within Inkscape.
 
 ## Features
